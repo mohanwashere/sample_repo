@@ -1,2 +1,4 @@
 # sample_repo
-my first git repository
+My first git repository.
+<br>
+Nice.
